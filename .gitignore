@@ -63,3 +63,4 @@ tmtagsHistory
 *.sublime-workspace
 .bundle
 
+.gitconfig
